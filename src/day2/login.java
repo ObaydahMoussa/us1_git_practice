@@ -2,9 +2,7 @@ package day2;
 
 public class login {
 
-    //i am working on login
+    //Working on login page
 
-    //add work to login
-
-    //finish login
+    //update to login page
 }
